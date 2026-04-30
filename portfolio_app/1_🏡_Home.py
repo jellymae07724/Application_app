@@ -40,7 +40,7 @@ st.title("🏠 Welcome to My Portfolio")
 st.subheader("Hi, I'm Jelly Mae 👋")
 st.write("Aspiring Developer | Designer")
 
-st.image("images/profile.png", width=200, caption="My Portfolio Banner")
+st.image("portfolio_app/images/profile.png", width=200, caption="My Portfolio Banner")
 
 st.markdown("""
 ### 👨‍💻 About This Portfolio
