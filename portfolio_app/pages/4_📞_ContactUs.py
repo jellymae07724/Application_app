@@ -88,7 +88,7 @@ with col2:
     st.markdown("""
     - 🐙 [GitHub](https://github.com/)
     - 📘 [Facebook](https://facebook.com/den.lopez.9695)
-    - ✉️ Email: yourname@email.com
+    - ✉️ Email: jellymaelopez6@gmail.com
     """)
 
     st.info("💬 Feel free to reach out anytime!")
